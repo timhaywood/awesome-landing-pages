@@ -1,6 +1,4 @@
-# Awesome Landing Pages
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-blueviolet.svg?style=flat)](http://makeapullrequest.com)
+# Awesome Landing Pages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of great product landing pages.
 
