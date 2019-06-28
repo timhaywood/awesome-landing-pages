@@ -1,9 +1,16 @@
-# Awesome Landing Pages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Landing Pages [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<!-- omit in toc -->
 
 A curated list of great product landing pages.
 
 > 👋 Please note, this list is **highly** opinionated!
 > Due to differing tastes, a site you believe is worthy of the list might not make the cut.
+
+## Contents<!-- omit in toc -->
+
+- [Key](#Key)
+- [Landing Pages](#Landing-Pages)
+- [Contribute](#Contribute)
+- [License](#License)
 
 ## Key
 
@@ -13,16 +20,15 @@ A curated list of great product landing pages.
 
 > Listed alphabetically
 
-- [airtable.com](https://airtable.com/) 🎨
-- [figma.com](https://www.figma.com/) 📝
-- [storybook.js.org](https://storybook.js.org/) 📝💃🏽
-- [stripe.com](https://stripe.com/) 🎨🛠
-- [zeit.co](https://zeit.co/) 🎨
+- [airtable.com](https://airtable.com/) - 🎨
+- [figma.com](https://www.figma.com/) - 📝
+- [storybook.js.org](https://storybook.js.org/) - 📝💃🏽
+- [stripe.com](https://stripe.com/) - 🎨🛠
+- [zeit.co](https://zeit.co/) - 🎨
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
-
 
 ## License
 
