@@ -5,7 +5,7 @@
 A curated list of great product landing pages.
 
 > 👋 Please note, this list is **highly** opinionated!
-> Due to differing tastes, while you might think a site is worthy of the list, it might not make the cut
+> Due to differing tastes, a site you believe is worthy of the list might not make the cut.
 
 ## Key
 
