@@ -24,6 +24,7 @@ A curated list of great product landing pages.
 - [figma.com](https://www.figma.com/) - A better way to design. 📝
 - [storybook.js.org](https://storybook.js.org/) - An open source tool for developing UI components in isolation for React, Vue, and Angular. 📝💃🏽
 - [stripe.com](https://stripe.com/) - Online payment processing for internet businesses. 🎨🛠
+- [vaultproject.io](https://www.vaultproject.io/) - A tool for secrets management, encryption as a service, and privileged access management. 🎨📝
 - [zeit.co](https://zeit.co/) - The Global Serverless Platform. 🎨
 
 ## Contribute
