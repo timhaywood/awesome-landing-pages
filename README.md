@@ -20,11 +20,11 @@ A curated list of great product landing pages.
 
 > Listed alphabetically
 
-- [airtable.com](https://airtable.com/) - 🎨
-- [figma.com](https://www.figma.com/) - 📝
-- [storybook.js.org](https://storybook.js.org/) - 📝💃🏽
-- [stripe.com](https://stripe.com/) - 🎨🛠
-- [zeit.co](https://zeit.co/) - 🎨
+- [airtable.com](https://airtable.com/) - Airtable works like a spreadsheet but gives you the power of a database to organize anything. 🎨
+- [figma.com](https://www.figma.com/) - A better way to design. 📝
+- [storybook.js.org](https://storybook.js.org/) - An open source tool for developing UI components in isolation for React, Vue, and Angular. 📝💃🏽
+- [stripe.com](https://stripe.com/) - Online payment processing for internet businesses. 🎨🛠
+- [zeit.co](https://zeit.co/) - The Global Serverless Platform. 🎨
 
 ## Contribute
 
