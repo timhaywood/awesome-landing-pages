@@ -21,6 +21,7 @@ A curated list of great product landing pages.
 > Listed alphabetically
 
 - [airtable.com](https://airtable.com/) - Airtable works like a spreadsheet but gives you the power of a database to organize anything. 🎨
+- [egghead.io](https://egghead.io/) - High quality, concise web development screencasts. 🎨
 - [figma.com](https://www.figma.com/) - A better way to design. 📝
 - [storybook.js.org](https://storybook.js.org/) - An open source tool for developing UI components in isolation for React, Vue, and Angular. 📝💃🏽
 - [stripe.com](https://stripe.com/) - Online payment processing for internet businesses. 🎨🛠
